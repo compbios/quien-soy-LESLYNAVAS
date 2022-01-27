@@ -6,3 +6,7 @@ Soy química farmacéutica, magister en administración en salud y estudiante de
 >> - Videojuegos
 
 >> - Ping pong
+
+También me encantan los perros
+![Sky](Imágenes/Sky.jpg)
+![Miguel](Imágenes/Miguel.jpg)
